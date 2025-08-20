@@ -1,0 +1,1 @@
+Cab Booking Management System is a Java and MySQL-based application that allows users to register, book cabs, view fares, and generate bills. Admins can manage drivers, cars, destinations, and prices. The system works offline (no online payment) but displays the advance amount to be paid and provides booking bills for users.
